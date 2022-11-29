@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400');
+
+
+.container {
+    margin: auto;
+    width: 60%;
+    text-align: center;
+}
+
+form.container {
+    text-align: left;
+}
+
+.submit {
+    text-align: center;
+}
+
+.btn {
+    border: 4px solid rgb(0, 0, 0);
+    background: rgb(152, 233, 255);
+    padding: 5px;
+}
+
+body{
+    background-image: url("https://buidln.clipdealer.com/001/242/238/previews/15--1242238-luminous%20background.jpg");
+}
+
+.user-pic {
+    max-width: 300px;
+}
+
+.ciclo .other {
+    display: inline;
+}
+
+.result textarea {
+    width: 40%;
+    height: 170px;
+    background-color: #00ffae;
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 30px;
+}
